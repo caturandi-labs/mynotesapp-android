@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Notes App</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="hapus">Hapus</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="validasi_title">Judul Tidak Boleh Kosong</string>
+    <string name="validasi_deskripsi">Deskripsi Wajib Diisi</string>
+</resources>
